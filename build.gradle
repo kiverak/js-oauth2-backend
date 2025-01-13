@@ -6,7 +6,7 @@ plugins {
 
 group = 'uz.kiverak.springboot'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '21'
+sourceCompatibility = '23'
 
 configurations {
 	developmentOnly
